@@ -1,4 +1,4 @@
-# 🎥 Real-Time Anime Filter
+# 🎥 Real-Time Cartoon Filter
 
 Transform your webcam feed into anime-style visuals in real time using OpenCV and Streamlit!  
 Watch your original video and the anime-styled version **side by side** instantly.
